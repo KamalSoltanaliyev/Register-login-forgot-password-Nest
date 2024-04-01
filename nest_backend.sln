@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nest_backend", "nest_backend\nest_backend.csproj", "{D43C9D40-FB82-49A1-8DD6-5696E7709F74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D43C9D40-FB82-49A1-8DD6-5696E7709F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43C9D40-FB82-49A1-8DD6-5696E7709F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43C9D40-FB82-49A1-8DD6-5696E7709F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43C9D40-FB82-49A1-8DD6-5696E7709F74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AAB3D22-6D18-4BD5-ACB9-52DB6857104B}
+	EndGlobalSection
+EndGlobal

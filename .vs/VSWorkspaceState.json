@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\nest_backend",
+    "\\nest_backend\\Contexts",
+    "\\nest_backend\\Controllers",
+    "\\nest_backend\\Migrations",
+    "\\nest_backend\\Models",
+    "\\nest_backend\\ViewModels",
+    "\\nest_backend\\Views"
+  ],
+  "SelectedNode": "\\nest_backend\\Models\\AppUser.cs",
+  "PreviewInSolutionExplorer": false
+}
